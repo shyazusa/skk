@@ -207,6 +207,7 @@
 おかえりなさい /おかえりなさい。まじおかえりなさい/
 おこめ /お米の美味しい炊き方、そしてお米を食べることによるその効果。/
 おせんじゅ /御千手メディテーション/
+おっけ /LGTM;(Looks good to me)(コードの)承認/
 おっけー /LGTM;(Looks good to me)(コードの)承認/
 おつかれ /お疲れ!まじお疲れ!/
 おつかれ /お疲れ。まじお疲れ/
@@ -220,9 +221,6 @@
 おも /IMHO;(In my humble opinion)(ていねいに)○○だと思います/
 おも /IMO;(In my (humble) opinion)○○だと思います/
 おも /LGTM;(Looks good to me)(提案に対して)問題ないと思う/
-おもu /IMHO;(In my humble opinion)(ていねいに)○○だと思います/
-おもu /IMO;(In my (humble) opinion)○○だと思います/
-おもu /LGTM;(Looks good to me)(提案に対して)問題ないと思う/
 おもう /IMHO;(In my humble opinion)(ていねいに)○○だと思います/
 おもう /IMO;(In my (humble) opinion)○○だと思います/
 おもう /LGTM;(Looks good to me)(提案に対して)いいと思う/
@@ -245,8 +243,8 @@
 かお /Σ(*'i'*/
 かお /⊂⌒っ *'v'*)っ/
 かお /✌(*'v'*)ｽｯ/
-かくせいSPすきる /覚醒SPスキル/
-かくせいspすきる /覚醒SPスキル/
+かくせい /覚醒SPスキル/
+かくせいすきる /覚醒SPスキル/
 かくにん /PTAL;(Please take another look)(再レビューの要求などで)再度ご確認ください/
 かぐやのしろでおどりたい /輝夜の城で踊りたい/
 かっこ /(/
@@ -263,9 +261,9 @@
 がるだいん /ガルダイン/
 がんばらねば /がんばらねーばねーばねばぎぶあぷ/
 がんばらねーばねーばねばぎぶあぷ /がんばらねーばねーばねばぎぶあぷ/
-きn /NP;(No problem)(依頼や謝罪などに対してくだけて)(問題ないから)気にしないで/
-きw /N.B.;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
-きw /NB;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
+き /N.B.;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
+き /NB;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
+き /NP;(No problem)(依頼や謝罪などに対してくだけて)(問題ないから)気にしないで/
 きっと /IIRC;(If I remember [recall] correctly)記憶が正しければ○○/
 きっと /IIUC;(If I understand correctly)(相手の発言を受けて)私の理解が正しければ/
 きっとせいしゅんがきこえる /きっと青春が聞こえる/
@@ -363,6 +361,7 @@
 すぅぃーと /Sweet Rain/
 すぅいーと /Sweet Rain/
 すかさず /すかさずドロー/
+すきる /覚醒SPスキル/
 すくかじゃ /スクカジャ/
 すくなひこな /スクナヒコナ/
 すすめとぅもろう /ススメ→トゥモロウ/
@@ -432,6 +431,7 @@
 ちゅう /WIP;(Work in progress)作業中/
 ちゅうい /N.B.;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
 ちゅうい /NB;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
+ちゅん /ハイ ちゅんちゅん/
 ちーちゃん /ちーちゃん/
 つぁーりぼんば /TSAR BOMBA/
 ついてる /つーかめちゃめちゃツイてるかもしんない。一向聴かもしんねぇ。一向聴かもしんねぇ!裏ドラ乗っちゃって二ドラドラドラかもしんねぇ!に/
@@ -449,7 +449,6 @@
 でびるふぃっしゅだんぷりんぐ /Devil Fish Dumpling/
 でました /はい出ました/
 でん /D.E.N./
-でんわ /080 2241 8526/
 とぅるー /True Blue/
 とうじょう /東條/
 とうじょうのぞみ /東條希/
@@ -479,7 +478,6 @@
 なん /WTF;(What the fuck)(想定外の事にくだけて)なんてこった/
 なんて /WTF;(What the fuck)(想定外の事にくだけて)なんてこった/
 なんで /WTF;(What the fuck)(想定外の事にくだけて)なんてこった/
-にう゛るへいむ /ニヴルヘイム/
 にこ /にこ/
 にしきの /西木野/
 にしきのまき /西木野真姫/
@@ -493,6 +491,7 @@
 のぞみ /希/
 のーぶらんどがーるず /No brand girls/
 は /WTF;(What the fuck)(想定外の事にくだけて)なんてこった/
+はい /ハイ ちゅんちゅん/
 はいちゅんちゅん /ハイ ちゅんちゅん/
 はえれてぃくす /HAERETICUS/
 はかい /破壊は半日で済むが、創造は一生かかる。 /
@@ -504,10 +503,12 @@
 はま /ハマ/
 はまおん /ハマオン/
 はやく /ASAP;(As soon as possible)できる限り早く/
+はらしょ /ハラショー/
 はらしょー /ハラショー/
 ばいばい /グッバイ、アディオス、失礼致します/
 ばすばす /bass 2 bass/
 ばっどすてーたす /バッドステータス/
+ばるきりー /Valkyrie dimension/
 ばるきりー /Valkyrie dimension/
 びゅーてぃふる /ビューティフル レシート/
 びーすてぃー /Beastie Starter/
@@ -609,7 +610,7 @@
 ぼーぐ /見せてやるぜ、技術大国の力を!/
 ぼーぐ /見損なわせて貰います/
 ぼーぐ /適当に考えておいて!/
-ぼーぐ /ﾅﾝﾁｭｰｺﾄ!ｽｯｺﾞｲｶﾜｲｿ/
+ぼーぐ /ﾅﾝﾁｭ-ｺﾄ!ｽｯｺﾞｲｶﾜｲｿ/
 ぽすと /POST/
 まき /真姫/
 まくいる /Macuilxochitl/
@@ -657,7 +658,6 @@
 めぎどらおん /メギドラオンでございます/
 めでぃあらはん /メディアラハン/
 めめんともり /メメントモリ/
-めーる /shy.azusa@gmail.com/
 もうじゃのなげき /亡者の嘆き/
 もうじゅう /猛獣/
 もぎゅっとらぶでせっきんちゅう /もぎゅっと"love"で接近中！/
@@ -672,14 +672,13 @@
 ゆきこ /雪子/
 ゆにばーさる /ユニバーサル度胸兄弟/
 ゆびーと /jubeat/
-よm /RTFM;(Read the fucking manual)(乱暴に)マニュアルを読め/
-よm /UTSL;(Use the source, Luke)(くだけて)ソースを読め(スター・ウォーズのセリフとかけた言葉遊び)/
 ようすけ /陽介/
 ようやく /TLDR;(Too long, didn't read)(長い文を読みたくない人向けの)要約/
 よし /FTW;(For the win)(何か良い案を挙げて)これでよし/
 よしたか /DJ YOSHITAKA/
+よめ /RTFM;(Read the fucking manual)(乱暴に)マニュアルを読め/
+よめ /UTSL;(Use the source, Luke)(くだけて)ソースを読め(スター・ウォーズのセリフとかけた言葉遊び)/
 よんまるご /405nm(Ryu☆mix)/
-よんまるご /405nm/
 よんまるご /405nm/
 らいく /Like a Thunderbolt Come on!!/
 らいとすたっふ /rightstaff/
@@ -717,7 +716,6 @@
 りゃく /LGTM;(Looks good to me)(提案に対して)いいと思う/
 りゃく /LOL;(Laugh out loud)(笑)/
 りゃく /N.B.;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
-りゃく /N/A;(Not applicable)not available)(表などで、項目の組み合わせが無効な欄に記載して)該当なし/
 りゃく /NA;(Not applicable)not available)(表などで、項目の組み合わせが無効な欄に記載して)該当なし/
 りゃく /NB;ラテン語(nota bene)英語(note well)(通例コメントの先頭で)特に注意せよ/
 りゃく /NP;(No problem)(依頼や謝罪などに対してくだけて)(問題ないから)気にしないで/
@@ -727,6 +725,7 @@
 りゃく /RFC;(Request for comments)(おもに issue のタグとして)意見募集/
 りゃく /ROFL;(Rolling on the floor laughing)(くだけて)(笑)/
 りゃく /RTFM;(Read the fucking manual)(乱暴に)マニュアルを読め/
+りゃく /STFG;(Search the fucking google)ググレカス/
 りゃく /TBA;(To be advised)あとで連絡する/
 りゃく /TBA;(To be announced)あとで発表する/
 りゃく /TBD;(To be determined)あとで決める/
@@ -760,6 +759,7 @@
 わ /ROFL;(Rolling on the floor laughing)(くだけて)(笑)/
 わ /……/
 わいるどすたーず /WILD STARS/
+わかってる /わかってるー/
 わかってるー /わかってるー/
 わら /ww/
 わんだふるらっしゅ /Wonderful Rush/
