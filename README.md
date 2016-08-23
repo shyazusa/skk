@@ -18,7 +18,7 @@ skk dictionary.
 
 - SKK日本語入力FEP (Windows)
 - AquaSKK (Mac)
-- FlickSKK
+- FlickSKK (iPhone)
 
 で確認．
 
