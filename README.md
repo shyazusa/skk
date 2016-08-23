@@ -1,7 +1,7 @@
 # skk dictionary
 
-ほぼほぼ個人用のskk辞書まとめです。  
-名言やら普段よく使用するものが詰まっています。  
+ほぼほぼ個人用のskk辞書まとめです．  
+名言やら普段よく使用するものが詰まっています．
 
 skk dictionary.
 * MBP
@@ -20,7 +20,7 @@ skk dictionary.
 - AquaSKK (Mac)
 - FlickSKK
 
-で確認
+で確認．
 
 ## 辞書の内容
 
@@ -37,7 +37,7 @@ skk dictionary.
 1. `$ nkf -w SKK > SKK.txt`
 1. 中身を確認する
 
-ワンライナー
+### ワンライナー
 
 ```
 $ nkf -e SKK.txt > SKK.euc && rm -f SKK && skkdic-expr2 SKK.euc > SKK && rm -f SKK.euc && rm -f SKK.txt && nkf -w SKK > SKK.txt
