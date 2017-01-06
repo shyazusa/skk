@@ -20,9 +20,24 @@
 
 [skk/SKK.txt at master · shyazusa/skk](https://github.com/shyazusa/skk/blob/master/SKK.txt)
 
-## 辞書作成方法
+## 辞書編集方法
 
-1. SKK.txtに辞書を追加する
+### 各種インストール
+
+```
+nkf
+$ brew install nkf
+
+glib2
+$ brew install glib
+
+skktools
+$ git clone skk-dev/skktools /tmp/skktools && cd /tmp/skktools && ./configure && make && make install && cd -
+```
+
+### 編集
+
+1. SKK.txtに辞書を追加/編集/削除
 1. `$ nkf -e SKK.txt > SKK.euc`
 1. `$ rm -f SKK`
 1. `$ skkdic-expr2 SKK.euc > SKK`
