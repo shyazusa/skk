@@ -1,12 +1,12 @@
 # skk dictionary
 
-ほぼほぼ個人用のskk辞書まとめです．  
-名言やら普段よく使用するものが詰まっています．
+ほぼほぼ個人用のskk辞書まとめです。  
+名言やら普段よく使用するものが詰まっています。
 
 ## URL指定で辞書を使う
 
 [https://raw.githubusercontent.com/shyazusa/skk/master/SKK](https://raw.githubusercontent.com/shyazusa/skk/master/SKK)  
-これを指定して下さい．
+これを指定して下さい。
 
 多分読み込めるハズ……  
 
@@ -14,7 +14,7 @@
 - AquaSKK (Mac)
 - FlickSKK (iPhone)
 
-で確認．
+で確認。
 
 ## 辞書の内容
 
