@@ -133,6 +133,7 @@
 くるしいです /苦しいです、評価してください/
 くれおぱとりずむ /Cleopatrysm/
 くろーしぇ /cloche/
+ぐーる /喰種/
 ぐっど /Good Evening, or DIE!/
 ぐっどいーぶにんぐ /Good Evening, or DIE!/
 ぐっどないと /Good Night, or DIE!/
@@ -286,6 +287,7 @@
 でん /D.E.N./
 とーる /Thor's Hammer/
 とぅるー /True Blue/
+とうきょうぐーる /東京喰種/
 とうじょう /東條/
 とうじょうのぞみ /東條希/
 ところで /BTW;(By the way)ところで/
