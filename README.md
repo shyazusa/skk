@@ -11,10 +11,12 @@
 多分読み込めるハズ……  
 
 - SKK日本語入力FEP (Windows)
-- AquaSKK (Mac)
+- ~~AquaSKK (Mac)~~
 - FlickSKK (iPhone)
 
 で確認。
+
+※AquaSKKは辞書の「場所」にURLが指定できなくなっていたので、このリポジトリをCloneしてローカルのファイルを指定して下さい。
 
 ## 辞書の内容
 
