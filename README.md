@@ -34,7 +34,7 @@ glib2
 $ brew install glib
 
 skktools
-$ git clone skk-dev/skktools /tmp/skktools && cd /tmp/skktools && ./configure && make && make install && cd -
+$ git clone https://github.com/skk-dev/skktools.git /tmp/skktools && cd /tmp/skktools && ./configure && make && sudo make install && cd -
 ```
 
 ### 編集
