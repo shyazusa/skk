@@ -1,5 +1,5 @@
-!!DICUT16
 !!ATOK_TANGO_TEXT_HEADER_1
+!!Shift-JIS
 ‚ ‚©‚¶	ÔŽšŠoŒå‚Å‚·	’Zk“Ç‚Ý
 ‚ ‚¯‚Ì‚Ý‚å‚¤‚¶‚å‚¤	–¾‚¯‚Ì–¾¯	–¼ŽŒ
 ‚ ‚Æ	TBA	’Zk“Ç‚Ý	(To be advised)‚ ‚Æ‚Å˜A—‚·‚é,(To be announced)‚ ‚Æ‚Å”­•\‚·‚é
