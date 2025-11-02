@@ -1,11 +1,19 @@
-# skk dictionary
+# IME Dictionaries
 
-ほぼほぼ個人用のskk辞書まとめです。  
+ほぼほぼ個人用のIME用の辞書まとめです。  
 名言やら普段よく使用するものが詰まっています。
 
-## URL指定で辞書を使う
+## ATOK
 
-[https://raw.githubusercontent.com/shyazusa/skk/master/SKK](https://raw.githubusercontent.com/shyazusa/skk/master/SKK)  
+[単語ファイルを利用して、単語をまとめて登録する](https://atok.com/other/support/howtouse/mac/dc/pgs/dc_word_add_file.htm)
+
+の単語ファイルが[ime-dictionaries/ATOK.txt at master · shyazusa/ime-dictionaries](https://github.com/shyazusa/ime-dictionaries/blob/master/ATOK.txt)になります。
+
+## SKK辞書設定方法
+
+### URLを使う
+
+[https://raw.githubusercontent.com/shyazusa/ime-dictionaries/master/SKK](https://raw.githubusercontent.com/shyazusa/ime-dictionaries/master/SKK)  
 これを指定して下さい。
 
 多分読み込めるハズ……  
@@ -18,11 +26,7 @@
 
 ※AquaSKKは辞書の「場所」にURLが指定できなくなっていたので、このリポジトリをCloneしてローカルのファイルを指定して下さい。
 
-## 辞書の内容
-
-[skk/SKK.txt at master · shyazusa/skk](https://github.com/shyazusa/skk/blob/master/SKK.txt)
-
-## 辞書編集方法
+## SKK辞書編集方法
 
 ### 各種インストール
 
